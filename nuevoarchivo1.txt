@@ -1,5 +1,6 @@
 este es un archivo nuevo 1
 Nuevo comentario
+
 Comentario buscando conflictos B
 Esto es otro comentario B
 Generando conflictos

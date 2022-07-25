@@ -1,5 +1,6 @@
 este es un archivo nuevo 1
 Nuevo comentario
 
-
-esto va a generar un conflicto probablemente
+Comentario buscando conflictos B
+Esto es otro comentario B
+Generando conflictos
